@@ -4,7 +4,7 @@
             "comment": "TODO revertOpcodeInInit followed by OOG",
             "filling-rpc-server": "",
             "filling-tool-version": "",
-            "filledWith": "CoreGeth-1.12.9-unstable-0e7a3a5c183da51231889ed8e64c52b5bace9825",
+            "filledWith": "CoreGeth-1.12.9-unstable-d8ad0afdd9c07b3d4dfb5a05480496ea8ec742e3",
             "lllcversion": "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source": "src/GeneralStateTestsFiller/stRevertTest/RevertOpcodeInInitFiller.json",
             "sourceHash": "d7b9401118e59a77e177b88592f96eea5c192533a3877a1c038afea619801330"
